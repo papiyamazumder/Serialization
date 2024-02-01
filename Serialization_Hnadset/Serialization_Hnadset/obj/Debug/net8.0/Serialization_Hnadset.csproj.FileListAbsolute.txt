@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\bin\Debug\net8.0\Serialization_Hnadset.exe
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\bin\Debug\net8.0\Serialization_Hnadset.deps.json
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\bin\Debug\net8.0\Serialization_Hnadset.runtimeconfig.json
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\bin\Debug\net8.0\Serialization_Hnadset.dll
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\bin\Debug\net8.0\Serialization_Hnadset.pdb
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\obj\Debug\net8.0\Serialization_Hnadset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\obj\Debug\net8.0\Serialization_Hnadset.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\obj\Debug\net8.0\Serialization_Hnadset.AssemblyInfo.cs
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\obj\Debug\net8.0\Serialization_Hnadset.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\obj\Debug\net8.0\Serialization_Hnadset.dll
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\obj\Debug\net8.0\refint\Serialization_Hnadset.dll
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\obj\Debug\net8.0\Serialization_Hnadset.pdb
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\obj\Debug\net8.0\Serialization_Hnadset.genruntimeconfig.cache
+C:\Projects\C# Projects\Serialization_Hnadset\Serialization_Hnadset\obj\Debug\net8.0\ref\Serialization_Hnadset.dll
